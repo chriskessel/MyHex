@@ -1,0 +1,44 @@
+{
+    "_description" : "The Commonwealth is a collection of free states that jointly wield great power and a wealth of gifted orators.",
+    "_namesFile":"HumanNames.txt",
+    "_name": "Free Commonwealth",
+    "_startingGold": 34,
+    "_startingPower": 15,
+    "_startingEmbassies": 3,
+
+    "_wizardLevelCap": 3,
+    "_wizardCostModifier": 1.3,
+    "_startingWizards": [ 1,1,1 ],
+
+    "_diplomatCostModifier": 0.8,
+    "_startingDiplomats": [ 10,10,10,8,7,6,5,3,1 ],
+
+    "_agentLevelCap": 13,
+    "_agentCostModifier": 0.8,
+    "_startingAgents": [ 5,3,3,1 ],
+
+    "_startingArmies": [ 4,2,0 ],
+    "_unitCost": 0.9,
+    "_reinforcementRate": 3.34,
+    "_armyName": "Freemen",
+    "_movementCosts": {
+        "Plain": 10,
+        "Forest": 13,
+        "Desert": 12,
+        "Mountain": 17,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": 1.10,
+        "Forest": 1.0,
+        "Desert": 1.05,
+        "Mountain": .95,
+        "Undefined": .01
+    },
+    "_troopType": {
+        "_size": 1000,
+        "_strength": .92,
+        "_armor": 0.55,
+        "_name": "Men"
+    }
+}

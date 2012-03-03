@@ -1,0 +1,54 @@
+- level 1
+  - *Teleport Self: same as a standard wizard move, but without range restriction.
+  - *Alchemy: create 1/2 village in gold * level
+  - *Scry: recon any hex without range limitation
+  - *Fireball: 1/6V * level totals (1=1, 2=3, 3=6, 4=10, etc).
+  - *Phantom Troops: Reduces casualties in combat by 10%/level, multiple spells are cumulative.
+  - *Diplomatic Aura: The wizard's group acts like a diplomat, level = group combat / 3000 * wizard level fibonacci
+- level 2
+  - *Teleport Figure: same as Teleport Self, but with any figure in the same base as the wizard. Never reports to pop owner.
+  - *Charm Figure: prevent a figure from executing any actions that turn.
+  - *Shield Figure: protect a figure from all spells, also acts as counter espionage for assassination attempts.
+  - *Dispel Combat Magic: Gives (wizard's level / opposing wizard's level) * 50% chance of dispelling an opposing combat spell, such as Fireball or Phantom Troops.
+- level 3
+  - *Shield Region: protects a region from any regional spells.
+  - *Imbue Pop Center: +1 to level of pop center at wizard's location
+  - *Teleport Army: teleport up to 1 unit/level to any location.
+  - *Deep Fog: The caster's unit avoids combat entirely. The caster's unit cannot issue an attack order this turn. This counts as a combat spell and can be dispelled.
+  - *Charm Region = 1 turn +1 embassy per wizard level
+- level 4
+  - *Curse Region: damage any non-friendly armies in the region.
+  - *Invisible Army: Hides up to 1 unit/level from any intelligence reports.
+  - *Raise Dead: recruit an undead unit the equivalent of levies, free to maintain and support.
+  - *Damage Pop Center: reduce a pop center's level by 1 in the same region as the wizard.
+- level 5
+  - *Bad Omen: reduce a king's power by one.
+  - *Summon Werebeasts: recruit the equivalent of regional troops, must be in a forest, free to maintain and support.
+  - *Enhance Power: raise your king's power by 1.
+  - *Enhance Embassy: Raise an embassy level by 1:
+  - *Corrupt Embassy: reduce an embassy level by 1.
+- level 6
+  - *Enhanced Teleport Army: teleport up to 2 armies/level
+  - *Enhanced Invisible Army: Hides up to 2 unit/level from any intelligence reports.
+  - *Subvert Hamlet: the selected hamlet in the wizard's region is converted to the player's ownership. Doesn't work on capitols.
+  - *Magic Dome: Prevent a population center from army attack. Does not stop other actions: recruiting, figure actions, agent missions, etc.
+  - *Summon Trolls = recruit trolls worth about 1.5x regional troops, must be in a mountain, free to maintain and support.
+- level 7
+  - Plague Army: Causes massive damage to enemy army, no combat required.
+  - *Summon Dragon = recruit a dragon worth about 3x regional troops, must be in a mountain, free to maintain and support.
+  - *Shadow Assassin: level X assassin
+  - *Imbue Region: every pop center in the region is improved by 1.
+  - *Damage Region: every pop center in the region is reduced by 1.
+  - *Subvert Town: the selected town in the wizard's region is converted to the player's ownership. Doesn't work on capitols.
+  - *Unlimited Teleport Army: teleport any sized army
+  - *Unlimited Invisible Army: Hides an army of any size.
+- level 8
+  - *Subvert City: the city in the region is converted to the player's ownership. Doesn't work on capitols.
+  - *Fire Storm: heavily damage a non-capitol pop center in the wizard's region, killing ALL figures in the pop center.
+- level 9
+  - *Dark Ritual: Must be at a controlled city, in a dominated region. Increases wizard level by 1. The city is reduced to level 1.
+
+
+Special orders:
+- Hail of Arrows: attack that does much more damage than usual, but reduces combat value significantly
+- Get Quest: find an unusual encounter location

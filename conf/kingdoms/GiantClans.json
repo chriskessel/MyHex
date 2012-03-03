@@ -1,0 +1,43 @@
+{
+    "_description" : "Despite their fearsome size, Giant diplomats are well respected, though it helps having their diplomacy backed by the threat of fast, powerful troops.",
+    "_namesFile":"MonsterNames.txt",
+    "_name": "Giant Clans",
+    "_startingEmbassies": 3,
+    "_diplomatCostModifier": 0.9,
+    "_startingDiplomats": [ 12,10,9,8,6,4,3,1 ],
+
+    "_agentLevelCap": 9,
+    "_agentCostModifier": 1.1,
+    "_startingAgents": [ 2,1 ],
+
+    "_wizardLevelCap": 4,
+    "_wizardCostModifier": 1.1,
+    "_startingWizards": [ 1,0,0,0 ],
+
+    "_armyName": "Giants",
+    "_movementCosts": {
+        "Plain": 7,
+        "Forest": 9,
+        "Desert": 9,
+        "Mountain": 11,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": 1.15,
+        "Forest": 0.85,
+        "Undefined": .01,
+        "Desert": 1.0,
+        "Mountain": 1.10
+    },
+    "_troopType": {
+        "_size": 1000,
+        "_strength": 1.70,
+        "_armor": 0.27,
+        "_name": "Giants"
+    },
+    "_startingArmies": [ 3,2,0 ],
+    "_unitCost": 1.0,
+    "_reinforcementRate": 4,
+    "_startingGold": 29,
+    "_startingPower": 14
+}

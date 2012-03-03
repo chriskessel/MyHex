@@ -1,0 +1,44 @@
+{
+    "_description" : "The Druids have a frugal, balanced approach and their affinity with nature grants them many talented wizards.",
+    "_namesFile":"NatureNames.txt",
+    "_name": "Druids Council",
+    "_startingGold": 18,
+    "_startingPower": 10,
+    "_startingEmbassies": 1,
+
+    "_wizardLevelCap": 6,
+    "_wizardCostModifier": 0.8,
+    "_startingWizards": [ 2,2,1,0,0,0 ],
+
+    "_diplomatCostModifier": 0.8,
+    "_startingDiplomats": [ 12,11,10,8,6,4,3,1 ],
+
+    "_agentLevelCap": 13,
+    "_agentCostModifier": 1.0,
+    "_startingAgents": [ 4,2,2,1 ],
+
+    "_startingArmies": [ 4,2,0 ],
+    "_unitCost": 0.8,
+    "_reinforcementRate": 3.34,
+    "_armyName": "Druidic",
+    "_movementCosts": {
+        "Plain": 11,
+        "Forest": 9,
+        "Desert": 17,
+        "Mountain": 13,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": 1.00,
+        "Forest": 1.2,
+        "Desert": 0.85,
+        "Mountain": 1.05,
+        "Undefined": .01
+    },
+    "_troopType": {
+        "_size": 1000,
+        "_strength": .92,
+        "_armor": 0.55,
+        "_name": "Druids"
+    }
+}

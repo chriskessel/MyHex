@@ -1,0 +1,44 @@
+{
+    "_description" : "The Brotherhood finds a calling for all members, resulting in a well balanced kingdom with an effective intelligence network.",
+    "_namesFile":"HumanNames.txt",
+    "_name": "Nameless Brotherhood",
+    "_startingGold": 20,
+    "_startingPower": 12,
+    "_startingEmbassies": 2,
+
+    "_wizardLevelCap": 5,
+    "_wizardCostModifier": 1.0,
+    "_startingWizards": [ 2,1,0,0,0 ],
+
+    "_diplomatCostModifier": 1.0,
+    "_startingDiplomats": [ 11,11,8,8,4,4,2,2 ],
+
+    "_agentLevelCap": 15,
+    "_agentCostModifier": 0.8,
+    "_startingAgents": [ 4,3,3,2,1,1 ],
+
+    "_startingArmies": [ 3,3,0 ],
+    "_unitCost": 0.7,
+    "_reinforcementRate": 3.34,
+    "_armyName": "Brotherhood",
+    "_movementCosts": {
+        "Plain": 10,
+        "Forest": 13,
+        "Desert": 13,
+        "Mountain": 16,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": 1.1,
+        "Forest": .95,
+        "Desert": 1.05,
+        "Mountain": 1.0,
+        "Undefined": .01
+    },
+    "_troopType": {
+        "_size": 1000,
+        "_strength": 1.13,
+        "_armor": 0.45,
+        "_name": "The Nameless"
+    }
+}

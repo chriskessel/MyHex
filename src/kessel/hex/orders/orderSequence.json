@@ -1,0 +1,46 @@
+[
+  "ArmyAttackArmy",
+  "ArmyAttackPop",
+
+  "DiplomatInspireLoyalty",
+  "DiplomatInciteRebellion",
+  "DiplomatNegotiateFealty",
+  "DemandSurrender",
+  "TakeRegionCensus",
+  "MapRegion",
+
+  "ArmyRecruit",
+  "RetireUnit",
+
+  "MoveWizard",
+  "MoveDiplomat",
+  "MoveAgent",
+
+  "ArmyMove",
+  "ArmySearch",
+  "ArmyTransfer",
+  "ArmyCombine",
+
+  "TrainAgent",
+  "TrainWizard",
+  "TrainDiplomat",
+
+  "ImprovePower",
+  "ImproveEmbassy",
+  "ImprovePopCenter",
+
+  "CreateArmy",
+  "HireWizard",
+  "HireDiplomat",
+  "HireAgent",
+
+  "CounterEspionage",
+  "SabotageEmbassy",
+  "SabotagePopCenter",
+  "AssassinateAgent",
+  "AssassinateDiplomat",
+  "AssassinateWizard",
+  "AgentScoutControlLevel",
+  "AgentScoutEmbassies",
+  "AgentReconLocation"
+]

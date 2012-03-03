@@ -1,0 +1,45 @@
+{
+    "_description" : "The Enchantress has long led a society focused on magical research, though at the expense of other aspects of her kingdom.",
+    "_namesFile":"HumanNames.txt",
+    "_name": "Enchantress",
+
+    "_startingGold": 17,
+    "_startingPower": 12,
+    "_startingEmbassies": 3,
+
+    "_diplomatCostModifier": 1.0,
+    "_startingDiplomats": [ 11,9,8,7,5,3,1 ],
+
+    "_wizardLevelCap": 8,
+    "_wizardCostModifier": 0.7,
+    "_startingWizards": [ 3,2,1,1,0,0,0 ],
+
+    "_agentLevelCap": 11,
+    "_agentCostModifier": 1.0,
+    "_startingAgents": [ 4,2,1 ],
+
+    "_armyName": "Enchanters",
+    "_movementCosts": {
+        "Plain": 11,
+        "Forest": 16,
+        "Desert": 13,
+        "Mountain": 18,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": 1.0,
+        "Forest": 1.05,
+        "Desert": .95,
+        "Mountain": 1.1,
+        "Undefined": .01
+    },
+    "_startingArmies": [ 3,2,0 ],
+    "_unitCost": 1.0,
+    "_reinforcementRate": 5.15,
+    "_troopType": {
+        "_size": 1000,
+        "_strength": .9,
+        "_armor": 0.55,
+        "_name": "Footmen"
+    }
+}

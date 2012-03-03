@@ -1,0 +1,44 @@
+{
+    "_description" : "The Elves believe in balance above all and their kingdom reflects this, though their magical nature gives them a small boost in that area.",
+    "_namesFile":"HighElfNames.txt",
+    "_name": "Elves",
+    "_startingGold": 27,
+    "_startingPower": 11,
+    "_startingEmbassies": 2,
+
+    "_wizardLevelCap": 6,
+    "_wizardCostModifier": 0.9,
+    "_startingWizards": [ 2,2,0,0,0 ],
+
+    "_diplomatCostModifier": 1.0,
+    "_startingDiplomats": [ 13,11,9,6,5,4,2,1 ],
+
+    "_agentLevelCap": 13,
+    "_agentCostModifier": 1.0,
+    "_startingAgents": [ 5,4,2,1 ],
+
+    "_startingArmies": [ 4,2,0 ],
+    "_unitCost": 1.0,
+    "_reinforcementRate": 3.34,
+    "_armyName": "Elven",
+    "_movementCosts": {
+        "Plain": 9,
+        "Forest": 9,
+        "Desert": 11,
+        "Mountain": 15,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": 1.0,
+        "Forest": 1.3,
+        "Desert": 0.8,
+        "Mountain": 0.9,
+        "Undefined": .01
+    },
+    "_troopType": {
+        "_size": 1000,
+        "_strength": 1.0,
+        "_armor": 0.50,
+        "_name": "Elves"
+    }
+}

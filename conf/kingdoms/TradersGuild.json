@@ -1,0 +1,44 @@
+{
+    "_description" : "Led of a council of guild masters, the Trader's Guild has a vast treasury to support its unmatched diplomatic prowess.",
+    "_namesFile":"HumanNames.txt",
+    "_name": "Traders Guild",
+    "_startingEmbassies": 2,
+
+    "_wizardLevelCap": 5,
+    "_wizardCostModifier": 1.0,
+    "_startingWizards": [ 1,1,1,0,0 ],
+
+    "_diplomatCostModifier": 0.8,
+    "_startingDiplomats": [ 14,13,12,10,8,6,4,2,1 ],
+
+    "_agentLevelCap": 11,
+    "_agentCostModifier": 1.0,
+    "_startingAgents": [ 4,2,1 ],
+
+    "_startingArmies": [ 3,2,0 ],
+    "_unitCost": 1.2,
+    "_armyName": "Guilders",
+    "_movementCosts": {
+        "Plain": 9,
+        "Forest": 14,
+        "Desert": 12,
+        "Mountain": 17,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": 1.0,
+        "Forest": 1.05,
+        "Desert": 1.10,
+        "Mountain": .95,
+        "Undefined": .01
+    },
+    "_reinforcementRate": 4,
+    "_startingGold": 53,
+    "_startingPower": 11,
+    "_troopType": {
+        "_size": 1000,
+        "_strength": 1.0,
+        "_armor": 0.5,
+        "_name": "Mercenaries"
+    }
+}

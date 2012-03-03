@@ -1,0 +1,34 @@
+DiplomatInspireLoyalty = 1H per 5 levels
+DiplomatInciteRebellion = 1H per 5 levels
+DiplomatNegotiateFealty = 1H per 5 levels
+TakeRegionCensus = 7H
+MapRegion = 5H
+
+ArmyRecruit = 2H + possible degrade (except capitol recruits)
+
+MoveWizard = free
+MoveDiplomat = 1H per 10 levels
+MoveAgent = 1H per 10 levels
+
+Train Agent = 1.5H
+Train Diplomat = 2H
+Train Wizard = 3.0H * level
+
+ImprovePower = 5H
+ImproveEmbassy = 3H
+ImprovePopCenter = 2H
+
+CreateArmy = 2H
+HireWizard = 6H
+HireDiplomat = 2H
+HireAgent = 2H
+
+CounterEspionage = 1H per 5 levels
+SabotageEmbassy = 1H per 5 levels
+SabotagePopCenter = 1H per 5 levels
+AssassinateAgent = 1H per 5 levels
+AssassinateDiplomat = 1H per 5 levels
+AssassinateWizard = 1H per 5 levels
+AgentScoutControlLevel = 1H per 5 levels
+AgentScoutEmbassies = 1H per 5 levels
+AgentReconLocation = 1H per 5 levels

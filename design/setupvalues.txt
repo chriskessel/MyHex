@@ -1,0 +1,78 @@
+(D)iplomat: 1H per level, max level depends on power
+(A)gent: 1H + 1H per level
+(W)izard: 6H per wizard, 3H per level. Max level #wizards. +/-3HP for +1 level
+(P)ower: 4H per level
+(A)rmy (S)tart/(R)eenforcement: 4H per 1H initial combat strength, 2H per 1H reinforcement (per turn rate depends on individual unit strength)
+(R)egional: 5H per level
+Movement: 13/hex average, 5H per +/-1 average cost
+Wizard train: 3.5H per level, +/-1H per wizard per -10% change
+Agent train: 1.5H, 2H per +/-10%, max 9-21 hand picked
+Diplomat train: 2H, 2H per +/-10%
+Troop cost: .75H per unit, 6 units, 5H per +/-10% change
+Standard setup: 250H
+
+Averages:
+Diplomacy = 50H
+Agent = 12H
+Wizard = 5W+5L
+
+Giants:         D=53H, A=5H, R=15H, W=24+3H, G=29H, AS=35H, AR=17H, P=56H
+                move=20H, wiz train=-3H, agent train=-2H, diplo train=2H, troop cost=0H
+                Total=250H // really fast, good military, good diplomacy
+
+Orc Horde:      D=31H, A=15H, R=5H, W=18+3H, G=27H, AS=36H, AR=52H, P=40H
+                move=5H, wiz train=-9H, agent train=2H, diplo train=0H, troop cost=25H
+                Total=250H // huge cheap army, crappy wizards
+
+Enchantress:    D=44H, A=10H, R=15H, W=42+33+3H, G=16.5H ,AS=18H, AR=7H, P=48H
+                move=-7.5H, wiz train=21H, agent train=0H, diplo train=0H, troop cost=0H
+                Total=250H // killer wizards
+
+Traders Guild:  D=70H, A=10H, R=10H, W=30+9H, G=53H, AS=20H, AR=10H, P=44H
+                move=0H, wiz train=0H, agent train=0H, diplo train=4H, troop cost=-10H
+                Total=250H // huge diplomacy, big money
+
+Vampire Lord:   D=40H, A=15H, R=1H, W=36+45+12H, G=36H, AS=26H, AR=13H, P=44H
+                move=-10H, wiz train=-12H, agent train=2v, diplo train=-2v, troop cost=0H
+                Total=250H // Strong, expensive wizards, good army.
+
+Shadow Cabal:   D=50H, A=45H, R=0H, W=30+21H, G=27H, AS=14H, AR=7H, P=40H
+                move=0H, wiz train=5H, agent train=6v, diplo train=0H, troop cost=5H
+                Total=250H // Killer agents, no army.
+
+Knights:        D=62H A=10H, R=25H, W=24+3H, G=33H, AS=40H, AR=12H, P=52H
+                move=5H, wiz train=-4H, agent train=0H, diplo train=4H, troop cost=-15H
+                Total=250H // Good diplomats, very strong individual troops, but costly.
+
+Stone Wizards:  D=40H A=10H, R=5H, W=42H+24H-9H, G=26H, AS=33H, AR=17H, P=40H
+                move=-5H, wiz train=7H, agent train=0H, diplo train=0H, troop cost=20H
+                Total=250H // Lots of wizards, but not high potential, strong, cheap troops.
+
+Druids Council: D=55H A=13H, R=5H, W=36H+21H, G=18H, AS=22H, AR=11H, P=40H
+                move=2.5H, wiz train=12H, agent train=0H, diplo train=4H, troop cost=10H
+                Total=250H // Good wizards, cheap all around
+
+Commonwealth:   D=60H A=16H, R=15H, W=18+9H, G=34H, AS=22H, AR=11H, P=60H
+                move=0H, wiz train=-9H, agent train=4H, diplo train=4H, troop cost=5H
+                Total=250H // great diplomats and starting influence, crap wizards
+
+Sky Children:   D=38H A=22H, R=5H, W=30H+57H+6H, G=22H, AS=20H, AR=10H, P=40H
+                move=5H, wiz train=0H, agent train=0H, diplo train=0H, troop cost=-5H
+                Total=250H // strong wizards, agents. Theme: fewer, but stronger starting figures and army units
+
+Nameless:       D=50H A=20H, R=10H, W=30H+12H, G=20H, AS=27H, AR=14H, P=48H
+                move=0H, wiz train=0H, agent train=4H, diplo train=0H, troop cost=15H
+                Total=250H // Good, cheap military. Good, cheap agents.
+
+Dwarven Empire: D=61H A=15H, R=15H, W=18H+3H, G=60H, AS=30H, AR=15H, P=48H
+                move=0H, wiz train=-9H, agent train=0H, diplo train=4H, troop cost=-10H
+                Total=250H // Good military. Good diplomacy. Useless wizards
+
+Gnomish States: D=51H A=20H, R=10H, W=36H+15H, G=40H, AS=16H, AR=8H, P=44H
+                move=0H, wiz train=6H, agent train=4H, diplo train=0H, troop cost=0H
+                Total=250H // Good wizards, agents. Crappy military.
+
+Elves:          D=51H A=16H, R=10H, W=30H+18H+3H, G=27H, AS=24H, AR=12H, P=44H
+                move=10H, wiz train=5H, agent train=0H, diplo train=0H, troop cost=0H
+                Total=250H // Good wizards, agents. Crappy military.
+

@@ -1,0 +1,44 @@
+{
+    "_description" : "Descendants of near immortal beings, the Sky Children are few in number, but magically inclined and individually powerful.",
+    "_namesFile":"AngelDemonNames.txt",
+    "_name": "Sky Children",
+    "_startingGold": 22,
+    "_startingPower": 10,
+    "_startingEmbassies": 1,
+
+    "_wizardLevelCap": 7,
+    "_wizardCostModifier": 1.0,
+    "_startingWizards": [ 3,3,3,1,0 ],
+
+    "_diplomatCostModifier": 1.0,
+    "_startingDiplomats": [ 13,11,9,4,1 ],
+
+    "_agentLevelCap": 16,
+    "_agentCostModifier": 1.0,
+    "_startingAgents": [ 8,6,3,1 ],
+
+    "_startingArmies": [ 2,2,0 ],
+    "_unitCost": 1.1,
+    "_reinforcementRate": 5,
+    "_armyName": "Sky Warriors",
+    "_movementCosts": {
+        "Plain": 10,
+        "Forest": 12,
+        "Desert": 12,
+        "Mountain": 14,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": 1.1,
+        "Forest": 0.95,
+        "Desert": 1.0,
+        "Mountain": 1.05,
+        "Undefined": .01
+    },
+    "_troopType": {
+        "_size": 1000,
+        "_strength": 1.25,
+        "_armor": 0.4,
+        "_name": "Sky Warriors"
+    }
+}

@@ -1,0 +1,243 @@
+Design Goals:
+ - Turn based plan-n-go
+ - Multiple paths, all with weaknesses
+   - armies are limited, slow, expensive, but near unstoppable by non-armies
+   - wizards are limited, expensive
+   - diplomats are plentiful, but easy to manipulate
+   - agents have no direct power, but can affect everything else
+ - limited ability to give orders, scale up
+ - The fun is in the planning, the choosing amongst the limitations
+
+Hex map mechanics (done)
+ - Map scales with players, at least Z hexes per player
+ - Map supports ratio of players to regions
+ - Regions are only roughly equal in size
+ - Players are spread around as evenly as possible
+ - Each region has one city (regional capitol)
+ - Assign terrain based on player start locations and terrain preferences
+
+Towns
+ - city/town/hamlet starting values
+ - buff player capitols
+
+Game Mechanics (general guidelines)
+ - troops and recruiting
+   - players have kingdom troops
+     - only available at capitol
+     - only in limited supply. Maybe timed allotments.
+   - regions have a troop type 
+     - can only recruit at the city
+     - must control the region
+   - towns have generic troops
+   - hamlets have no troops
+ - towns
+   - have a level: production, defense, diplomatic strength are all calculated from that.
+ - figures
+   - agents
+     - can be purchased/created/trained
+     - have a pop or army as a base of operations
+     - can reach X hexes
+     - agents have a proficiency level
+     - missions
+       - have a difficulty level
+       - Roll 2 dice per proficiency level, 50% success per die, mission complete on success >= job level
+       - adjustments for
+         - counter agents
+         - spells
+   - diplomats
+     - can be purchased/created/trained
+     - have a pop as a base of operations
+     - can reach X hexes
+     - have a proficiency level
+     - diplomatic actions
+       - have a difficulty level
+       - Roll 2 dice per proficiency level, 50% success per die, mission complete on success >= job level
+       - adjustments for
+         - counter diplomats
+         - spells
+         - population attitude
+         - population loyalty
+   - leaders
+     - created in battle? maybe purchase the lowest level?
+     - trained(advanced) only in battle
+     - have a proficiency level
+     - military bonuses
+     - diplomatic ability
+     - diplomacy power is the lesser of leader ability and army size
+   - wizards
+     - based in army or pop
+     - have a proficiency level
+     - training takes the place of casting a spell
+     - one order a turn
+     - spells
+       - kingdom has an affinity (necro/nature/fire/etc)
+       - can research to gain limited affinity elsewhere, giving a subset of the normal affinity list
+ - Kingdoms
+   - Unique spells lists
+   - Unique level caps for training
+   - Unique troop types
+
+Fun things
+ - Region names 
+   - Based on dominant terrain type (e.g. Shrouded Forest)
+   - City has a terrain oriented name (e.g. Oakdale)
+ - figure names
+   - based on race
+
+Misc random thoughts
+ - figure specialties? Spies might favor assassination, wizards a spell/genre, leaders grant some bonus (like extra movement).
+ - create your own kingdom
+
+Game Mechanics (specifics)
+ - Diplomacy
+   - map region borders = learn all locations that are in a region, but not what's on any of them.
+   - Diplomat incite rebellion
+     - automatic success on own pops (can't do own capitol)
+     - "hits" = 1/level + roll 1 die/level where 50% of rolls add another hit (e.g. level 10 averages 15 hits: 10 + 0.5*10).
+     - success if "hits" >= level of pop
+     - mob activates if "hits" <= level/2
+     - modifiers
+       - embassy levels
+       - counter emissary subtract their level from the inciting diplomat's "hits"
+   - Diplomatic negotiate fealty
+     - same as incite rebellion except as noted below
+     - controlled pops have their level doubled for purposes of the attempt roll
+   - non-friendly armies block movement
+   - embassies
+     - +level to owner's "hits" on diplomatic actions in pops
+     - -level to others "hits" on diplomatic actions in owner's pops
+     - Example: I have a level 2 embassy, they have level 1 => I'm +1 in their pops, they're -1 in mine
+ - Battle
+   - unit traits
+     - use cases
+       - high damage, high armor, low size => flexible, high longevity in the field
+       - high damage, low armor, normal size => powerful, low longevity
+       - low damage, high armor, normal size => defensive, high longevity
+       - average damage, low armor, huge size => powerful, good longevity, but slow to heal
+     - troop type
+       - size: number of people in the troop
+       - combat value: how many hits are inflicted in combat per person
+       - armor: what percentage of opponent's hits do permanent damage
+       - penetration: a bonus/reduction to the opponents armor
+   - highest combat value wins
+   - hits are evenly applied across all troops
+   - units consolidate immediately (e.g. 5 units, 20% damage => 4 units), weakest is removed
+   - combat strength calc
+     - Per troop: size * combat value
+ - Agents
+   - non friendly armies do NOT block movement
+   - missions
+     - general
+       - each mission has a difficulty factor
+       - missions may promote an agent for success, depends on mission type
+       - agent rolls "hits" just like diplomats
+       - agent death chance is related to the difficulty factor
+         - increased/reduced by the amount an agents succeeds or fails by
+       - counter agents work just like counter diplomats
+       - counter agent death possible if the mission succeeded, varies by mission type but generally as follows
+         - roll attacking agent
+         - roll defending agent
+         - if attacker >= 2 * defender then defender dies
+       - counter agents can promote if they made the difference in mission failure
+     - assassination
+       - difficulty based on the target type and level
+     - recon
+       - recon hex, full info on one square
+       - recon embassies, X info on embassies in a region
+       - explore region, identify X new hexes in the current region
+     - sabotage
+ - Wizards
+   - non friendly armies do NOT block movement
+ - Regional Control
+     - 51% = controlled
+       - free embassy level
+       - diplomat thing? free level? free diplomat?
+       - learn of all pops in the region
+     - 80% && has city = dominated
+       - towns and cities are +1/+2 level for combat if owned by the region owner
+       - can recruit regional troops at the city
+ - Armies
+   - command structure
+     - required:
+       - normal: 1 per army + 1 per army unit. The goal is to have some additional penalty to having lots of little armies.
+       - special: magical troops with no support cost
+     - capacity:
+       - +2 per Hamlet
+       - +1 per town
+       - -2 per City
+   - cost
+     - unit specific
+     - kingdom adjustment
+ - King
+   - orders that are exclusive (policy orders)
+     - increase power
+     - improve embassy
+     - take region census = know all pop center location in a region, knows their type, but no details
+ - Economics
+   - Diplomats
+     - recon=always level 1 cost
+     - mapRegion=3 hamlets
+     - takeCensus=3 hamlets
+     - attempt=1 hamlet per 5 levels
+     - move=1/2 attempt cost
+     - hire=2 hamlet cost, level 3
+     - training
+       - costs 1 hamlet
+       - modified by kingdom rates
+       - kingdom based level caps
+   - Agents, same as diplomats
+   - Wizard
+     - no cost to use or move
+     - hire=5 hamlets, level 0, can't exceed max wizards
+     - train
+       - cost=2 hamlet per level
+       - modified by kingdom rates
+       - kingdom based level caps
+   - Armies
+     - maintenance=0.5 hamlet/unit
+       - modified by kingdom rates
+     - recruit
+       - kingdom=free, but limited
+       - other=1.5 hamlets
+     - create=2 hamlets
+   - Pops
+     - cost=2 hamlets
+   - King stuff
+     - improve power = 1 hamlet * (nextLevel / 4)
+     - improve embassy in region = 3 hamlets;
+ - Defaults
+   - Goals
+     - diplomats
+       - level 1 diplomats can't do anything useful unless a pop has been hammered already
+       - level 2 diplomats can do hamlets reliably
+       - level 4+ diplomats can do towns reliably
+       - level 8+ diplomats can do cities reliably
+     - agents
+       - agent/diplomat
+         - can kill equal level agent/diplomat 50/50
+       - wizards
+         - level 0 wizard = 4 difficulty
+         - level 1 wizard = 6 + level * 3
+     - sabotage
+       - pops: level 4 agent has 50/50
+       - embassy: level 10 agent has 50/50
+   - Hamlet = 3
+   - Town = 6
+   - City = 12
+
+
+Map Display
+ - See on each hex
+   - what region it's in
+   - pop on the hex
+     - who owns the pop
+     - whether things are known to be in the pop
+     - pop type
+   - armies in the hex
+     - who owns the armies
+   - terrain in the hex
+ - concept
+   - background is region color
+   - terrain is transparent image (trees, mountains, etc)
+   - center is a transparent image of the pop in the color of the owner
+   - tiny transparent flag images in the color of the owner under the pop

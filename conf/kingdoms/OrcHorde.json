@@ -1,0 +1,45 @@
+{
+    "_description" : "The Orc Horde's armies grow at a frightening rate and exists for one purpose, to conquer.",
+    "_namesFile":"GoblinNames.txt",
+    "_name": "Orc Horde",
+
+    "_startingGold": 27,
+    "_startingPower": 10,
+    "_startingEmbassies": 1,
+
+    "_startingWizards": [ 1,0,0 ],
+    "_wizardLevelCap": 3,
+    "_wizardCostModifier": 1.3,
+
+    "_startingDiplomats": [ 10,7,6,4,3,1 ],
+    "_diplomatCostModifier": 1.0,
+
+    "_startingAgents": [ 5,3,2,1 ],
+    "_agentLevelCap": 13,
+    "_agentCostModifier": 0.9,
+
+    "_armyName": "Orcs",
+    "_startingArmies": [ 4,3,0 ],
+    "_movementCosts": {
+        "Plain": 9,
+        "Forest": 11,
+        "Desert": 12,
+        "Mountain": 16,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": 1.10,
+        "Forest": 1.05,
+        "Desert": 1.0,
+        "Mountain": 0.95,
+        "Undefined": .01
+    },
+    "_unitCost": 0.5,
+    "_reinforcementRate": 1,
+    "_troopType": {
+        "_size": 1000,
+        "_strength": 1.3,
+        "_armor": 0.40,
+        "_name": "Orcs"
+    }
+}

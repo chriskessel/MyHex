@@ -1,0 +1,45 @@
+{
+    "_description" : "The Protectorate is well represented by diplomatic nobles and their army of knights has no equal.",
+    "_namesFile":"HumanNames.txt",
+    "_name": "Knights Protectorate",
+
+    "_startingGold": 33,
+    "_startingPower": 13,
+    "_startingEmbassies": 5,
+
+    "_wizardLevelCap": 4,
+    "_wizardCostModifier": 1.1,
+    "_startingWizards": [ 1,0,0,0 ],
+
+    "_diplomatCostModifier": 0.8,
+    "_startingDiplomats": [ 13,13,12,11,6,4,2,1 ],
+
+    "_agentLevelCap": 11,
+    "_agentCostModifier": 1.0,
+    "_startingAgents": [ 3,3,1 ],
+
+    "_startingArmies": [ 4,2,0 ],
+    "_unitCost": 1.3,
+    "_reinforcementRate": 5.55,
+    "_armyName": "Knights",
+    "_movementCosts": {
+        "Plain": 8,
+        "Forest": 13,
+        "Desert": 10,
+        "Mountain": 17,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": 1.25,
+        "Forest": 0.8,
+        "Desert": 1.1,
+        "Mountain": .85,
+        "Undefined": .01
+    },
+    "_troopType": {
+        "_size": 1000,
+        "_strength": 1.67,
+        "_armor": 0.30,
+        "_name": "Knights"
+    }
+}

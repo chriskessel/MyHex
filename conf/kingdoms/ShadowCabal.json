@@ -1,0 +1,45 @@
+{
+    "_description" : "The Cabal is only rumor to some, said to possess a vast network of agents and well placed diplomats.",
+    "_namesFile":"EvilNames.txt",
+    "_name": "Shadow Cabal",
+    "_startingEmbassies": 0,
+
+    "_wizardLevelCap": 5,
+    "_wizardCostModifier": .9,
+    "_startingWizards": [ 2,2,1,0,0 ],
+
+    "_diplomatCostModifier": 1.0,
+    "_startingDiplomats": [ 12,10,8,7,5,4,3,1 ],
+
+    "_agentLevelCap": 21,
+    "_agentCostModifier": 0.7,
+    "_startingAgents": [ 10,8,7,5,3,2,1,1 ],
+
+    "_startingGold": 27,
+    "_startingPower": 10,
+
+    "_startingArmies": [ 3,1,0 ],
+    "_unitCost": 0.9,
+    "_reinforcementRate": 5,
+    "_armyName": "Shadows",
+    "_movementCosts": {
+        "Plain": 9,
+        "Forest": 13,
+        "Desert": 13,
+        "Mountain": 17,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": .95,
+        "Forest": 1.1,
+        "Desert": 1.0,
+        "Mountain": 1.05,
+        "Undefined": .01
+    },
+    "_troopType": {
+        "_size": 1000,
+        "_strength": 0.875,
+        "_armor": 0.57,
+        "_name": "Shadows"
+    }
+}

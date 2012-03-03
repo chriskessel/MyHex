@@ -1,0 +1,7564 @@
+{
+  "_name": "foogame",
+  "_popCenters": {
+    "Hamlet": [
+      [
+        {
+          "x": 0,
+          "y": 3
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 96,
+          "name": "Wildeedge",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 0,
+            "y": 3
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 4,
+          "type": "Hamlet"
+        }
+      ],
+      [
+        {
+          "x": 6,
+          "y": 3
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 94,
+          "name": "Coastcliff",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 6,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 4,
+          "type": "Hamlet"
+        }
+      ],
+      [
+        {
+          "x": 10,
+          "y": 1
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 92,
+          "name": "Woodwilde Shore",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 10,
+            "y": 1
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 4,
+          "type": "Hamlet"
+        }
+      ],
+      [
+        {
+          "x": 9,
+          "y": 4
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 82,
+          "name": "Esterdragon Beach",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 9,
+            "y": 4
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 4,
+          "type": "Hamlet"
+        }
+      ],
+      [
+        {
+          "x": 8,
+          "y": 10
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 84,
+          "name": "Oldbush Point",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 8,
+            "y": 10
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 2,
+          "type": "Hamlet"
+        }
+      ],
+      [
+        {
+          "x": 8,
+          "y": 3
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 88,
+          "name": "Eriwynne",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 8,
+            "y": 3
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 2,
+          "type": "Hamlet"
+        }
+      ],
+      [
+        {
+          "x": 9,
+          "y": 1
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 102,
+          "name": "Foglake",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 9,
+            "y": 1
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 3,
+          "type": "Hamlet"
+        }
+      ],
+      [
+        {
+          "x": 3,
+          "y": 7
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 100,
+          "name": "Redbank Forest",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 3,
+            "y": 7
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 4,
+          "type": "Hamlet"
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 6
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 98,
+          "name": "Stoneborough Crossing",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 6
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 4,
+          "type": "Hamlet"
+        }
+      ],
+      [
+        {
+          "x": 0,
+          "y": 11
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 104,
+          "name": "Dracfort",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 0,
+            "y": 11
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 2,
+          "type": "Hamlet"
+        }
+      ],
+      [
+        {
+          "x": 11,
+          "y": 8
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 86,
+          "name": "Lorbank",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 8
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 4,
+          "type": "Hamlet"
+        }
+      ],
+      [
+        {
+          "x": 11,
+          "y": 11
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 90,
+          "name": "Icefield",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 11
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 2,
+          "type": "Hamlet"
+        }
+      ]
+    ],
+    "Town": [
+      [
+        {
+          "x": 7,
+          "y": 0
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 101,
+          "name": "Stonelake Island",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 7,
+            "y": 0
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 8,
+          "type": "Town"
+        }
+      ],
+      [
+        {
+          "x": 5,
+          "y": 7
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 83,
+          "name": "Westerborough",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 5,
+            "y": 7
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 8,
+          "type": "Town"
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 99,
+          "name": "Magemarsh",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 0
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 9,
+          "type": "Town"
+        }
+      ],
+      [
+        {
+          "x": 0,
+          "y": 4
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 97,
+          "name": "Elfhollow",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 0,
+            "y": 4
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 6,
+          "type": "Town"
+        }
+      ],
+      [
+        {
+          "x": 7,
+          "y": 3
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 87,
+          "name": "Coldwall Barrens",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 7,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 8,
+          "type": "Town"
+        }
+      ],
+      [
+        {
+          "x": 11,
+          "y": 2
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 91,
+          "name": "Newmoor",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 2
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 8,
+          "type": "Town"
+        }
+      ],
+      [
+        {
+          "x": 3,
+          "y": 6
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 95,
+          "name": "Esterbush Hedge",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 3,
+            "y": 6
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 8,
+          "type": "Town"
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 10
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 103,
+          "name": "Norham",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 8,
+          "type": "Town"
+        }
+      ],
+      [
+        {
+          "x": 11,
+          "y": 10
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 89,
+          "name": "Goldfield",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 9,
+          "type": "Town"
+        }
+      ],
+      [
+        {
+          "x": 5,
+          "y": 5
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 85,
+          "name": "Dracland",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 5,
+            "y": 5
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 9,
+          "type": "Town"
+        }
+      ]
+    ],
+    "City": [
+      [
+        {
+          "x": 1,
+          "y": 5
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 93,
+          "name": "Violetfort",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 1,
+            "y": 5
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 13,
+          "type": "City"
+        }
+      ],
+      [
+        {
+          "x": 6,
+          "y": 8
+        },
+        {
+          "class": "kessel.hex.domain.PopCenter",
+          "id": 81,
+          "name": "Elfhurst",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 6,
+            "y": 8
+          },
+          "owner": "Unowned",
+          "lastTurnStatus": [],
+          "level": 14,
+          "type": "City"
+        }
+      ]
+    ],
+    "Unknown": {}
+  },
+  "_players": [
+    {
+      "name": "Traders Guild",
+      "kingdom": "Traders Guild",
+      "capitol": 85,
+      "king": {
+        "class": "kessel.hex.domain.King",
+        "id": 26,
+        "name": "Ishato",
+        "isInvisible": false,
+        "turnSeen": 0,
+        "coordinate": {
+          "x": 5,
+          "y": 5
+        },
+        "owner": "Traders Guild",
+        "lastTurnStatus": [],
+        "level": 1,
+        "baseId": 85,
+        "range": 0
+      },
+      "wizards": [
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 4,
+          "name": "Zheos",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 5,
+            "y": 5
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 1,
+          "baseId": 18,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 5,
+          "name": "Aleasha",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 3,
+            "y": 6
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 1,
+          "baseId": 22,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 6,
+          "name": "Rayn",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 5,
+            "y": 5
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 1,
+          "baseId": 85,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 7,
+          "name": "Ardlight",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 3,
+            "y": 6
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 0,
+          "baseId": 95,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 8,
+          "name": "Umhwor",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 10,
+            "y": 1
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 0,
+          "baseId": 92,
+          "range": 10
+        }
+      ],
+      "diplomats": [
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 9,
+          "name": "Cerage",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 5,
+            "y": 5
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 14,
+          "baseId": 85,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 10,
+          "name": "Umit",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 3,
+            "y": 6
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 13,
+          "baseId": 95,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 11,
+          "name": "Burdgha",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 10,
+            "y": 1
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 12,
+          "baseId": 92,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 12,
+          "name": "Quemiss",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 5,
+            "y": 5
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 10,
+          "baseId": 85,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 13,
+          "name": "Issosy",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 3,
+            "y": 6
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 8,
+          "baseId": 95,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 14,
+          "name": "Atelmo",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 10,
+            "y": 1
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 6,
+          "baseId": 92,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 15,
+          "name": "Sulkin",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 5,
+            "y": 5
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 4,
+          "baseId": 85,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 16,
+          "name": "Lyeock",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 3,
+            "y": 6
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 2,
+          "baseId": 95,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 17,
+          "name": "Roban",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 10,
+            "y": 1
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 1,
+          "baseId": 92,
+          "range": 10
+        }
+      ],
+      "agents": [
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 1,
+          "name": "Imris",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 5,
+            "y": 5
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 4,
+          "baseId": 85,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 2,
+          "name": "Vitor",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 3,
+            "y": 6
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 2,
+          "baseId": 95,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 3,
+          "name": "Thriath",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 10,
+            "y": 1
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "level": 1,
+          "baseId": 92,
+          "range": 10
+        }
+      ],
+      "armies": [
+        {
+          "class": "kessel.hex.domain.Army",
+          "id": 18,
+          "name": "1st Guilders",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 5,
+            "y": 5
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "units": [
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 19,
+              "name": "Mercenaries",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Traders Guild",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 1.0,
+                "_armor": 0.5,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Mercenaries"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            },
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 20,
+              "name": "Mercenaries",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Traders Guild",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 1.0,
+                "_armor": 0.5,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Mercenaries"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            },
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 21,
+              "name": "Mercenaries",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Traders Guild",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 1.0,
+                "_armor": 0.5,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Mercenaries"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            }
+          ]
+        },
+        {
+          "class": "kessel.hex.domain.Army",
+          "id": 22,
+          "name": "2nd Guilders",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 3,
+            "y": 6
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "units": [
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 23,
+              "name": "Mercenaries",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Traders Guild",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 1.0,
+                "_armor": 0.5,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Mercenaries"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            },
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 24,
+              "name": "Mercenaries",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Traders Guild",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 1.0,
+                "_armor": 0.5,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Mercenaries"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            }
+          ]
+        },
+        {
+          "class": "kessel.hex.domain.Army",
+          "id": 25,
+          "name": "3rd Guilders",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 5,
+            "y": 5
+          },
+          "owner": "Traders Guild",
+          "lastTurnStatus": [],
+          "units": []
+        }
+      ],
+      "popIds": [
+        85,
+        95,
+        92
+      ],
+      "gold": 25650,
+      "power": 11,
+      "kingdomTroopsAvailable": 3,
+      "nextFigureName": 729,
+      "embassies": {
+        "Faerie Woods": 1,
+        "Clouded Ridge": 1
+      },
+      "orders": [],
+      "events": [],
+      "controlIntel": {
+        "Traders Guild": {
+          "Faerie Woods": "Presence",
+          "Clouded Ridge": "Presence"
+        }
+      },
+      "gameView": {
+        "_name": "foogame",
+        "_popCenters": {
+          "Hamlet": [
+            [
+              {
+                "x": 10,
+                "y": 1
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 92,
+                "name": "Woodwilde Shore",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 10,
+                  "y": 1
+                },
+                "owner": "Traders Guild",
+                "lastTurnStatus": [],
+                "level": 4,
+                "type": "Hamlet"
+              }
+            ]
+          ],
+          "Town": [
+            [
+              {
+                "x": 3,
+                "y": 6
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 95,
+                "name": "Esterbush Hedge",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 3,
+                  "y": 6
+                },
+                "owner": "Traders Guild",
+                "lastTurnStatus": [],
+                "level": 8,
+                "type": "Town"
+              }
+            ],
+            [
+              {
+                "x": 5,
+                "y": 5
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 85,
+                "name": "Dracland",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 5,
+                  "y": 5
+                },
+                "owner": "Traders Guild",
+                "lastTurnStatus": [],
+                "level": 9,
+                "type": "Town"
+              }
+            ]
+          ],
+          "City": [
+            [
+              {
+                "x": 6,
+                "y": 8
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 81,
+                "name": "Elfhurst",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 6,
+                  "y": 8
+                },
+                "owner": "Unknown",
+                "lastTurnStatus": [],
+                "level": -1,
+                "type": "City"
+              }
+            ],
+            [
+              {
+                "x": 1,
+                "y": 5
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 93,
+                "name": "Violetfort",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 1,
+                  "y": 5
+                },
+                "owner": "Unknown",
+                "lastTurnStatus": [],
+                "level": -1,
+                "type": "City"
+              }
+            ]
+          ],
+          "Unknown": {}
+        },
+        "_players": [
+          {
+            "name": "Dwarven Empire",
+            "kingdom": "Dwarven Empire",
+            "wizards": [],
+            "diplomats": [],
+            "agents": [],
+            "armies": [],
+            "popIds": [],
+            "gold": 0,
+            "power": 0,
+            "kingdomTroopsAvailable": 0,
+            "nextFigureName": 242,
+            "embassies": {},
+            "orders": [],
+            "events": [],
+            "controlIntel": {}
+          },
+          {
+            "name": "Shadow Cabal",
+            "kingdom": "Shadow Cabal",
+            "wizards": [],
+            "diplomats": [],
+            "agents": [],
+            "armies": [],
+            "popIds": [],
+            "gold": 0,
+            "power": 0,
+            "kingdomTroopsAvailable": 0,
+            "nextFigureName": 517,
+            "embassies": {},
+            "orders": [],
+            "events": [],
+            "controlIntel": {}
+          },
+          {
+            "name": "Unknown",
+            "wizards": [],
+            "diplomats": [],
+            "agents": [],
+            "armies": [],
+            "popIds": [
+              93,
+              81
+            ],
+            "gold": 0,
+            "power": 0,
+            "kingdomTroopsAvailable": 0,
+            "nextFigureName": 880,
+            "embassies": {},
+            "orders": [],
+            "events": [],
+            "controlIntel": {}
+          },
+          {
+            "name": "Unowned",
+            "wizards": [],
+            "diplomats": [],
+            "agents": [],
+            "armies": [],
+            "popIds": [],
+            "gold": 0,
+            "power": 0,
+            "kingdomTroopsAvailable": 0,
+            "nextFigureName": 281,
+            "embassies": {},
+            "orders": [],
+            "events": [],
+            "controlIntel": {}
+          }
+        ],
+        "_map": {
+          "width": 12,
+          "height": 12,
+          "locations": [
+            [
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 2
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 3
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 4
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 6
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 9
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 10
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 11
+                },
+                "_terrain": "Forest"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 1
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 2
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 3
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 4
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 6
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 8
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 9
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 10
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 11
+                },
+                "_terrain": "Forest"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 1
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 2
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 3
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 4
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 6
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 8
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 9
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 10
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 2
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 3
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 4
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 5
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 6
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 7
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 8
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 9
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 10
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 2
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 3
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 4
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 9
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 10
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 9
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 10
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 2
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 9
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 10
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 0
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 1
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 7
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 0
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 1
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 6
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 8
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 0
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 1
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 6
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 7
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 8
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 0
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 1
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 4
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 6
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 7
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 8
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ]
+          ],
+          "regions": [
+            {
+              "name": "Faerie Woods",
+              "locationReferences": [
+                {
+                  "x": 6,
+                  "y": 8
+                },
+                {
+                  "x": 5,
+                  "y": 6
+                },
+                {
+                  "x": 6,
+                  "y": 5
+                },
+                {
+                  "x": 6,
+                  "y": 6
+                },
+                {
+                  "x": 5,
+                  "y": 5
+                },
+                {
+                  "x": 10,
+                  "y": 0
+                },
+                {
+                  "x": 11,
+                  "y": 0
+                },
+                {
+                  "x": 10,
+                  "y": 1
+                },
+                {
+                  "x": 10,
+                  "y": 2
+                },
+                {
+                  "x": 11,
+                  "y": 1
+                }
+              ],
+              "popReferences": [
+                81,
+                85,
+                92
+              ]
+            },
+            {
+              "name": "Clouded Ridge",
+              "locationReferences": [
+                {
+                  "x": 1,
+                  "y": 5
+                },
+                {
+                  "x": 4,
+                  "y": 5
+                },
+                {
+                  "x": 5,
+                  "y": 4
+                },
+                {
+                  "x": 3,
+                  "y": 6
+                },
+                {
+                  "x": 2,
+                  "y": 6
+                },
+                {
+                  "x": 3,
+                  "y": 7
+                },
+                {
+                  "x": 4,
+                  "y": 6
+                },
+                {
+                  "x": 2,
+                  "y": 7
+                },
+                {
+                  "x": 3,
+                  "y": 5
+                },
+                {
+                  "x": 4,
+                  "y": 7
+                },
+                {
+                  "x": 9,
+                  "y": 0
+                },
+                {
+                  "x": 9,
+                  "y": 1
+                }
+              ],
+              "popReferences": [
+                93,
+                95
+              ]
+            }
+          ]
+        },
+        "_turn": 13,
+        "_idGenerator": 1,
+        "_created": true
+      }
+    },
+    {
+      "name": "Dwarven Empire",
+      "kingdom": "Dwarven Empire",
+      "capitol": 89,
+      "king": {
+        "class": "kessel.hex.domain.King",
+        "id": 51,
+        "name": "Ngibf",
+        "isInvisible": false,
+        "turnSeen": 0,
+        "coordinate": {
+          "x": 11,
+          "y": 10
+        },
+        "owner": "Dwarven Empire",
+        "lastTurnStatus": [],
+        "level": 1,
+        "baseId": 89,
+        "range": 0
+      },
+      "wizards": [
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 31,
+          "name": "Man",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 1,
+          "baseId": 42,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 32,
+          "name": "Getgag",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 0,
+          "baseId": 47,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 33,
+          "name": "Nog",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 0,
+          "baseId": 89,
+          "range": 10
+        }
+      ],
+      "diplomats": [
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 34,
+          "name": "Ralli",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 13,
+          "baseId": 89,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 35,
+          "name": "Lehron",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 12,
+          "baseId": 103,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 36,
+          "name": "Oaka",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 8
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 10,
+          "baseId": 86,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 37,
+          "name": "Tega",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 9,
+          "baseId": 89,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 38,
+          "name": "Fet",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 7,
+          "baseId": 103,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 39,
+          "name": "Aeto",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 8
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 5,
+          "baseId": 86,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 40,
+          "name": "Aeki",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 4,
+          "baseId": 89,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 41,
+          "name": "Gyik",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 1,
+          "baseId": 103,
+          "range": 10
+        }
+      ],
+      "agents": [
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 27,
+          "name": "Rsan",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 5,
+          "baseId": 89,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 28,
+          "name": "Rer",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 3,
+          "baseId": 103,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 29,
+          "name": "Loler",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 8
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 2,
+          "baseId": 86,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 30,
+          "name": "Femlug",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "level": 1,
+          "baseId": 89,
+          "range": 10
+        }
+      ],
+      "armies": [
+        {
+          "class": "kessel.hex.domain.Army",
+          "id": 42,
+          "name": "1st Dwarven",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "units": [
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 43,
+              "name": "Dwarves",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Dwarven Empire",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 1.25,
+                "_armor": 0.4,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Dwarves"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            },
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 44,
+              "name": "Dwarves",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Dwarven Empire",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 1.25,
+                "_armor": 0.4,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Dwarves"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            },
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 45,
+              "name": "Dwarves",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Dwarven Empire",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 1.25,
+                "_armor": 0.4,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Dwarves"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            },
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 46,
+              "name": "Dwarves",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Dwarven Empire",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 1.25,
+                "_armor": 0.4,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Dwarves"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            }
+          ]
+        },
+        {
+          "class": "kessel.hex.domain.Army",
+          "id": 47,
+          "name": "2nd Dwarven",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "units": [
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 48,
+              "name": "Dwarves",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Dwarven Empire",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 1.25,
+                "_armor": 0.4,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Dwarves"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            },
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 49,
+              "name": "Dwarves",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Dwarven Empire",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 1.25,
+                "_armor": 0.4,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Dwarves"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            }
+          ]
+        },
+        {
+          "class": "kessel.hex.domain.Army",
+          "id": 50,
+          "name": "3rd Dwarven",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 11,
+            "y": 10
+          },
+          "owner": "Dwarven Empire",
+          "lastTurnStatus": [],
+          "units": []
+        }
+      ],
+      "popIds": [
+        89,
+        103,
+        86
+      ],
+      "gold": 24240,
+      "power": 12,
+      "kingdomTroopsAvailable": 3,
+      "nextFigureName": 673,
+      "embassies": {
+        "Faerie Woods": 2,
+        "Clouded Ridge": 1
+      },
+      "orders": [],
+      "events": [],
+      "controlIntel": {
+        "Dwarven Empire": {
+          "Faerie Woods": "Presence",
+          "Clouded Ridge": "Presence"
+        }
+      },
+      "gameView": {
+        "_name": "foogame",
+        "_popCenters": {
+          "Hamlet": [
+            [
+              {
+                "x": 11,
+                "y": 8
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 86,
+                "name": "Lorbank",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 11,
+                  "y": 8
+                },
+                "owner": "Dwarven Empire",
+                "lastTurnStatus": [],
+                "level": 4,
+                "type": "Hamlet"
+              }
+            ]
+          ],
+          "Town": [
+            [
+              {
+                "x": 2,
+                "y": 10
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 103,
+                "name": "Norham",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 2,
+                  "y": 10
+                },
+                "owner": "Dwarven Empire",
+                "lastTurnStatus": [],
+                "level": 8,
+                "type": "Town"
+              }
+            ],
+            [
+              {
+                "x": 11,
+                "y": 10
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 89,
+                "name": "Goldfield",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 11,
+                  "y": 10
+                },
+                "owner": "Dwarven Empire",
+                "lastTurnStatus": [],
+                "level": 9,
+                "type": "Town"
+              }
+            ]
+          ],
+          "City": [
+            [
+              {
+                "x": 6,
+                "y": 8
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 81,
+                "name": "Elfhurst",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 6,
+                  "y": 8
+                },
+                "owner": "Unknown",
+                "lastTurnStatus": [],
+                "level": -1,
+                "type": "City"
+              }
+            ],
+            [
+              {
+                "x": 1,
+                "y": 5
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 93,
+                "name": "Violetfort",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 1,
+                  "y": 5
+                },
+                "owner": "Unknown",
+                "lastTurnStatus": [],
+                "level": -1,
+                "type": "City"
+              }
+            ]
+          ],
+          "Unknown": {}
+        },
+        "_players": [
+          {
+            "name": "Traders Guild",
+            "kingdom": "Traders Guild",
+            "wizards": [],
+            "diplomats": [],
+            "agents": [],
+            "armies": [],
+            "popIds": [],
+            "gold": 0,
+            "power": 0,
+            "kingdomTroopsAvailable": 0,
+            "nextFigureName": 920,
+            "embassies": {},
+            "orders": [],
+            "events": [],
+            "controlIntel": {}
+          },
+          {
+            "name": "Shadow Cabal",
+            "kingdom": "Shadow Cabal",
+            "wizards": [],
+            "diplomats": [],
+            "agents": [],
+            "armies": [],
+            "popIds": [],
+            "gold": 0,
+            "power": 0,
+            "kingdomTroopsAvailable": 0,
+            "nextFigureName": 836,
+            "embassies": {},
+            "orders": [],
+            "events": [],
+            "controlIntel": {}
+          },
+          {
+            "name": "Unknown",
+            "wizards": [],
+            "diplomats": [],
+            "agents": [],
+            "armies": [],
+            "popIds": [
+              93,
+              81
+            ],
+            "gold": 0,
+            "power": 0,
+            "kingdomTroopsAvailable": 0,
+            "nextFigureName": 466,
+            "embassies": {},
+            "orders": [],
+            "events": [],
+            "controlIntel": {}
+          },
+          {
+            "name": "Unowned",
+            "wizards": [],
+            "diplomats": [],
+            "agents": [],
+            "armies": [],
+            "popIds": [],
+            "gold": 0,
+            "power": 0,
+            "kingdomTroopsAvailable": 0,
+            "nextFigureName": 601,
+            "embassies": {},
+            "orders": [],
+            "events": [],
+            "controlIntel": {}
+          }
+        ],
+        "_map": {
+          "width": 12,
+          "height": 12,
+          "locations": [
+            [
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 2
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 3
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 4
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 6
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 9
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 10
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 11
+                },
+                "_terrain": "Forest"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 1
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 2
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 3
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 4
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 6
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 8
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 9
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 10
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 11
+                },
+                "_terrain": "Forest"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 1
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 2
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 3
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 4
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 6
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 8
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 9
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 10
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 2
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 3
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 4
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 5
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 6
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 7
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 8
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 9
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 10
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 2
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 3
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 4
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 9
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 10
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 9
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 10
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 2
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 9
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 10
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 0
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 1
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 7
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 0
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 1
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 6
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 8
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 0
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 1
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 6
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 7
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 8
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 0
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 1
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 4
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 6
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 7
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 8
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ]
+          ],
+          "regions": [
+            {
+              "name": "Faerie Woods",
+              "locationReferences": [
+                {
+                  "x": 6,
+                  "y": 8
+                },
+                {
+                  "x": 10,
+                  "y": 11
+                },
+                {
+                  "x": 10,
+                  "y": 10
+                },
+                {
+                  "x": 11,
+                  "y": 10
+                },
+                {
+                  "x": 11,
+                  "y": 11
+                },
+                {
+                  "x": 3,
+                  "y": 9
+                },
+                {
+                  "x": 3,
+                  "y": 10
+                },
+                {
+                  "x": 11,
+                  "y": 7
+                },
+                {
+                  "x": 10,
+                  "y": 8
+                },
+                {
+                  "x": 11,
+                  "y": 8
+                },
+                {
+                  "x": 11,
+                  "y": 9
+                },
+                {
+                  "x": 10,
+                  "y": 9
+                }
+              ],
+              "popReferences": [
+                81,
+                89,
+                86
+              ]
+            },
+            {
+              "name": "Clouded Ridge",
+              "locationReferences": [
+                {
+                  "x": 1,
+                  "y": 5
+                },
+                {
+                  "x": 1,
+                  "y": 9
+                },
+                {
+                  "x": 1,
+                  "y": 10
+                },
+                {
+                  "x": 2,
+                  "y": 9
+                },
+                {
+                  "x": 2,
+                  "y": 10
+                },
+                {
+                  "x": 2,
+                  "y": 11
+                }
+              ],
+              "popReferences": [
+                93,
+                103
+              ]
+            }
+          ]
+        },
+        "_turn": 13,
+        "_idGenerator": 1,
+        "_created": true
+      }
+    },
+    {
+      "name": "Shadow Cabal",
+      "kingdom": "Shadow Cabal",
+      "capitol": 99,
+      "king": {
+        "class": "kessel.hex.domain.King",
+        "id": 80,
+        "name": "Nthauri",
+        "isInvisible": false,
+        "turnSeen": 0,
+        "coordinate": {
+          "x": 2,
+          "y": 0
+        },
+        "owner": "Shadow Cabal",
+        "lastTurnStatus": [],
+        "level": 1,
+        "baseId": 99,
+        "range": 0
+      },
+      "wizards": [
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 60,
+          "name": "Mathaelandelo",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 0
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 2,
+          "baseId": 73,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 61,
+          "name": "Ugorglat",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 7,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 2,
+          "baseId": 77,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 62,
+          "name": "Ngitulro",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 0
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 1,
+          "baseId": 99,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 63,
+          "name": "Wela",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 7,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 0,
+          "baseId": 87,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Wizard",
+          "id": 64,
+          "name": "Mendrtu",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 6,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 0,
+          "baseId": 94,
+          "range": 10
+        }
+      ],
+      "diplomats": [
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 65,
+          "name": "Kaglde",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 0
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 12,
+          "baseId": 99,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 66,
+          "name": "Morchang",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 7,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 10,
+          "baseId": 87,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 67,
+          "name": "Ogothu",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 6,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 8,
+          "baseId": 94,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 68,
+          "name": "Obaulrircau",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 0
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 7,
+          "baseId": 99,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 69,
+          "name": "Hegorot",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 7,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 5,
+          "baseId": 87,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 70,
+          "name": "Orircan",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 6,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 4,
+          "baseId": 94,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 71,
+          "name": "Andurmm",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 0
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 3,
+          "baseId": 99,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Diplomat",
+          "id": 72,
+          "name": "Ondetha",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 7,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 1,
+          "baseId": 87,
+          "range": 10
+        }
+      ],
+      "agents": [
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 52,
+          "name": "Orgbar",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 0
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 10,
+          "baseId": 99,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 53,
+          "name": "Begodugon",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 7,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 8,
+          "baseId": 87,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 54,
+          "name": "Harthm",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 6,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 7,
+          "baseId": 94,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 55,
+          "name": "Vaugirgb",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 0
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 5,
+          "baseId": 99,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 56,
+          "name": "Lurin",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 7,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 3,
+          "baseId": 87,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 57,
+          "name": "Lrirca",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 6,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 2,
+          "baseId": 94,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 58,
+          "name": "Rorthau",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 0
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 1,
+          "baseId": 99,
+          "range": 10
+        },
+        {
+          "class": "kessel.hex.domain.Agent",
+          "id": 59,
+          "name": "Begur",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 7,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "level": 1,
+          "baseId": 87,
+          "range": 10
+        }
+      ],
+      "armies": [
+        {
+          "class": "kessel.hex.domain.Army",
+          "id": 73,
+          "name": "1st Shadows",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 0
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "units": [
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 74,
+              "name": "Shadows",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Shadow Cabal",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 0.875,
+                "_armor": 0.57,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Shadows"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            },
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 75,
+              "name": "Shadows",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Shadow Cabal",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 0.875,
+                "_armor": 0.57,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Shadows"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            },
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 76,
+              "name": "Shadows",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Shadow Cabal",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 0.875,
+                "_armor": 0.57,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Shadows"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            }
+          ]
+        },
+        {
+          "class": "kessel.hex.domain.Army",
+          "id": 77,
+          "name": "2nd Shadows",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 7,
+            "y": 3
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "units": [
+            {
+              "class": "kessel.hex.domain.ArmyUnit",
+              "id": 78,
+              "name": "Shadows",
+              "isInvisible": false,
+              "turnSeen": 0,
+              "owner": "Shadow Cabal",
+              "lastTurnStatus": [],
+              "troopType": {
+                "_size": 1000,
+                "_strength": 0.875,
+                "_armor": 0.57,
+                "_maintenanceCost": 0.75,
+                "_supportRequired": 1.0,
+                "_name": "Shadows"
+              },
+              "casualties": 0,
+              "morale": 100.0
+            }
+          ]
+        },
+        {
+          "class": "kessel.hex.domain.Army",
+          "id": 79,
+          "name": "3rd Shadows",
+          "isInvisible": false,
+          "turnSeen": 0,
+          "coordinate": {
+            "x": 2,
+            "y": 0
+          },
+          "owner": "Shadow Cabal",
+          "lastTurnStatus": [],
+          "units": []
+        }
+      ],
+      "popIds": [
+        99,
+        87,
+        94
+      ],
+      "gold": 24896,
+      "power": 10,
+      "kingdomTroopsAvailable": 2,
+      "nextFigureName": 127,
+      "embassies": {
+        "Faerie Woods": 0,
+        "Clouded Ridge": 0
+      },
+      "orders": [],
+      "events": [],
+      "controlIntel": {
+        "Shadow Cabal": {
+          "Faerie Woods": "Presence",
+          "Clouded Ridge": "Presence"
+        }
+      },
+      "gameView": {
+        "_name": "foogame",
+        "_popCenters": {
+          "Hamlet": [
+            [
+              {
+                "x": 6,
+                "y": 3
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 94,
+                "name": "Coastcliff",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 6,
+                  "y": 3
+                },
+                "owner": "Shadow Cabal",
+                "lastTurnStatus": [],
+                "level": 4,
+                "type": "Hamlet"
+              }
+            ]
+          ],
+          "Town": [
+            [
+              {
+                "x": 7,
+                "y": 3
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 87,
+                "name": "Coldwall Barrens",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 7,
+                  "y": 3
+                },
+                "owner": "Shadow Cabal",
+                "lastTurnStatus": [],
+                "level": 8,
+                "type": "Town"
+              }
+            ],
+            [
+              {
+                "x": 2,
+                "y": 0
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 99,
+                "name": "Magemarsh",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 2,
+                  "y": 0
+                },
+                "owner": "Shadow Cabal",
+                "lastTurnStatus": [],
+                "level": 9,
+                "type": "Town"
+              }
+            ]
+          ],
+          "City": [
+            [
+              {
+                "x": 6,
+                "y": 8
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 81,
+                "name": "Elfhurst",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 6,
+                  "y": 8
+                },
+                "owner": "Unknown",
+                "lastTurnStatus": [],
+                "level": -1,
+                "type": "City"
+              }
+            ],
+            [
+              {
+                "x": 1,
+                "y": 5
+              },
+              {
+                "class": "kessel.hex.domain.PopCenter",
+                "id": 93,
+                "name": "Violetfort",
+                "isInvisible": false,
+                "turnSeen": 0,
+                "coordinate": {
+                  "x": 1,
+                  "y": 5
+                },
+                "owner": "Unknown",
+                "lastTurnStatus": [],
+                "level": -1,
+                "type": "City"
+              }
+            ]
+          ],
+          "Unknown": {}
+        },
+        "_players": [
+          {
+            "name": "Traders Guild",
+            "kingdom": "Traders Guild",
+            "wizards": [],
+            "diplomats": [],
+            "agents": [],
+            "armies": [],
+            "popIds": [],
+            "gold": 0,
+            "power": 0,
+            "kingdomTroopsAvailable": 0,
+            "nextFigureName": 86,
+            "embassies": {},
+            "orders": [],
+            "events": [],
+            "controlIntel": {}
+          },
+          {
+            "name": "Dwarven Empire",
+            "kingdom": "Dwarven Empire",
+            "wizards": [],
+            "diplomats": [],
+            "agents": [],
+            "armies": [],
+            "popIds": [],
+            "gold": 0,
+            "power": 0,
+            "kingdomTroopsAvailable": 0,
+            "nextFigureName": 681,
+            "embassies": {},
+            "orders": [],
+            "events": [],
+            "controlIntel": {}
+          },
+          {
+            "name": "Unknown",
+            "wizards": [],
+            "diplomats": [],
+            "agents": [],
+            "armies": [],
+            "popIds": [
+              93,
+              81
+            ],
+            "gold": 0,
+            "power": 0,
+            "kingdomTroopsAvailable": 0,
+            "nextFigureName": 979,
+            "embassies": {},
+            "orders": [],
+            "events": [],
+            "controlIntel": {}
+          },
+          {
+            "name": "Unowned",
+            "wizards": [],
+            "diplomats": [],
+            "agents": [],
+            "armies": [],
+            "popIds": [],
+            "gold": 0,
+            "power": 0,
+            "kingdomTroopsAvailable": 0,
+            "nextFigureName": 469,
+            "embassies": {},
+            "orders": [],
+            "events": [],
+            "controlIntel": {}
+          }
+        ],
+        "_map": {
+          "width": 12,
+          "height": 12,
+          "locations": [
+            [
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 2
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 3
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 4
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 6
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 9
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 10
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 0,
+                  "y": 11
+                },
+                "_terrain": "Forest"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 1
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 2
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 3
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 4
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 6
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 8
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 9
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 10
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 1,
+                  "y": 11
+                },
+                "_terrain": "Forest"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 1
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 2
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 3
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 4
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 6
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 8
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 9
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 10
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 2,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 2
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 3
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 4
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 5
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 6
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 7
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 8
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 9
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 10
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 3,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 2
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 3
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 4
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 9
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 10
+                },
+                "_terrain": "Plain"
+              },
+              {
+                "_coord": {
+                  "x": 4,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 9
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 10
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 5,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 2
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 9
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 10
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 6,
+                  "y": 11
+                },
+                "_terrain": "Plain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 0
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 1
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 7,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 0
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 1
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 6
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 7
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 8
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 8,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 0
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 1
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 5
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 6
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 7
+                },
+                "_terrain": "Forest"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 8
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 9,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 0
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 1
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 4
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 6
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 7
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 8
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 10,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ],
+            [
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 0
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 1
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 2
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 3
+                },
+                "_terrain": "Desert"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 4
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 5
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 6
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 7
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 8
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 9
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 10
+                },
+                "_terrain": "Mountain"
+              },
+              {
+                "_coord": {
+                  "x": 11,
+                  "y": 11
+                },
+                "_terrain": "Mountain"
+              }
+            ]
+          ],
+          "regions": [
+            {
+              "name": "Faerie Woods",
+              "locationReferences": [
+                {
+                  "x": 6,
+                  "y": 8
+                },
+                {
+                  "x": 8,
+                  "y": 3
+                },
+                {
+                  "x": 8,
+                  "y": 4
+                },
+                {
+                  "x": 7,
+                  "y": 4
+                },
+                {
+                  "x": 7,
+                  "y": 3
+                }
+              ],
+              "popReferences": [
+                81,
+                87
+              ]
+            },
+            {
+              "name": "Clouded Ridge",
+              "locationReferences": [
+                {
+                  "x": 1,
+                  "y": 5
+                },
+                {
+                  "x": 2,
+                  "y": 0
+                },
+                {
+                  "x": 2,
+                  "y": 1
+                },
+                {
+                  "x": 1,
+                  "y": 0
+                },
+                {
+                  "x": 3,
+                  "y": 0
+                },
+                {
+                  "x": 7,
+                  "y": 2
+                },
+                {
+                  "x": 6,
+                  "y": 3
+                },
+                {
+                  "x": 6,
+                  "y": 4
+                },
+                {
+                  "x": 6,
+                  "y": 2
+                },
+                {
+                  "x": 5,
+                  "y": 2
+                },
+                {
+                  "x": 5,
+                  "y": 3
+                }
+              ],
+              "popReferences": [
+                93,
+                99,
+                94
+              ]
+            }
+          ]
+        },
+        "_turn": 13,
+        "_idGenerator": 1,
+        "_created": true
+      }
+    }
+  ],
+  "_map": {
+    "width": 12,
+    "height": 12,
+    "locations": [
+      [
+        {
+          "_coord": {
+            "x": 0,
+            "y": 0
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 0,
+            "y": 1
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 0,
+            "y": 2
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 0,
+            "y": 3
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 0,
+            "y": 4
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 0,
+            "y": 5
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 0,
+            "y": 6
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 0,
+            "y": 7
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 0,
+            "y": 8
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 0,
+            "y": 9
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 0,
+            "y": 10
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 0,
+            "y": 11
+          },
+          "_terrain": "Forest"
+        }
+      ],
+      [
+        {
+          "_coord": {
+            "x": 1,
+            "y": 0
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 1,
+            "y": 1
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 1,
+            "y": 2
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 1,
+            "y": 3
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 1,
+            "y": 4
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 1,
+            "y": 5
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 1,
+            "y": 6
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 1,
+            "y": 7
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 1,
+            "y": 8
+          },
+          "_terrain": "Plain"
+        },
+        {
+          "_coord": {
+            "x": 1,
+            "y": 9
+          },
+          "_terrain": "Plain"
+        },
+        {
+          "_coord": {
+            "x": 1,
+            "y": 10
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 1,
+            "y": 11
+          },
+          "_terrain": "Forest"
+        }
+      ],
+      [
+        {
+          "_coord": {
+            "x": 2,
+            "y": 0
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 2,
+            "y": 1
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 2,
+            "y": 2
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 2,
+            "y": 3
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 2,
+            "y": 4
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 2,
+            "y": 5
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 2,
+            "y": 6
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 2,
+            "y": 7
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 2,
+            "y": 8
+          },
+          "_terrain": "Plain"
+        },
+        {
+          "_coord": {
+            "x": 2,
+            "y": 9
+          },
+          "_terrain": "Plain"
+        },
+        {
+          "_coord": {
+            "x": 2,
+            "y": 10
+          },
+          "_terrain": "Plain"
+        },
+        {
+          "_coord": {
+            "x": 2,
+            "y": 11
+          },
+          "_terrain": "Plain"
+        }
+      ],
+      [
+        {
+          "_coord": {
+            "x": 3,
+            "y": 0
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 3,
+            "y": 1
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 3,
+            "y": 2
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 3,
+            "y": 3
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 3,
+            "y": 4
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 3,
+            "y": 5
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 3,
+            "y": 6
+          },
+          "_terrain": "Plain"
+        },
+        {
+          "_coord": {
+            "x": 3,
+            "y": 7
+          },
+          "_terrain": "Plain"
+        },
+        {
+          "_coord": {
+            "x": 3,
+            "y": 8
+          },
+          "_terrain": "Plain"
+        },
+        {
+          "_coord": {
+            "x": 3,
+            "y": 9
+          },
+          "_terrain": "Plain"
+        },
+        {
+          "_coord": {
+            "x": 3,
+            "y": 10
+          },
+          "_terrain": "Plain"
+        },
+        {
+          "_coord": {
+            "x": 3,
+            "y": 11
+          },
+          "_terrain": "Plain"
+        }
+      ],
+      [
+        {
+          "_coord": {
+            "x": 4,
+            "y": 0
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 4,
+            "y": 1
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 4,
+            "y": 2
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 4,
+            "y": 3
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 4,
+            "y": 4
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 4,
+            "y": 5
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 4,
+            "y": 6
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 4,
+            "y": 7
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 4,
+            "y": 8
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 4,
+            "y": 9
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 4,
+            "y": 10
+          },
+          "_terrain": "Plain"
+        },
+        {
+          "_coord": {
+            "x": 4,
+            "y": 11
+          },
+          "_terrain": "Plain"
+        }
+      ],
+      [
+        {
+          "_coord": {
+            "x": 5,
+            "y": 0
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 5,
+            "y": 1
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 5,
+            "y": 2
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 5,
+            "y": 3
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 5,
+            "y": 4
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 5,
+            "y": 5
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 5,
+            "y": 6
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 5,
+            "y": 7
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 5,
+            "y": 8
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 5,
+            "y": 9
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 5,
+            "y": 10
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 5,
+            "y": 11
+          },
+          "_terrain": "Plain"
+        }
+      ],
+      [
+        {
+          "_coord": {
+            "x": 6,
+            "y": 0
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 6,
+            "y": 1
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 6,
+            "y": 2
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 6,
+            "y": 3
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 6,
+            "y": 4
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 6,
+            "y": 5
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 6,
+            "y": 6
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 6,
+            "y": 7
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 6,
+            "y": 8
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 6,
+            "y": 9
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 6,
+            "y": 10
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 6,
+            "y": 11
+          },
+          "_terrain": "Plain"
+        }
+      ],
+      [
+        {
+          "_coord": {
+            "x": 7,
+            "y": 0
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 7,
+            "y": 1
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 7,
+            "y": 2
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 7,
+            "y": 3
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 7,
+            "y": 4
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 7,
+            "y": 5
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 7,
+            "y": 6
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 7,
+            "y": 7
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 7,
+            "y": 8
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 7,
+            "y": 9
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 7,
+            "y": 10
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 7,
+            "y": 11
+          },
+          "_terrain": "Mountain"
+        }
+      ],
+      [
+        {
+          "_coord": {
+            "x": 8,
+            "y": 0
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 8,
+            "y": 1
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 8,
+            "y": 2
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 8,
+            "y": 3
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 8,
+            "y": 4
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 8,
+            "y": 5
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 8,
+            "y": 6
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 8,
+            "y": 7
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 8,
+            "y": 8
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 8,
+            "y": 9
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 8,
+            "y": 10
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 8,
+            "y": 11
+          },
+          "_terrain": "Mountain"
+        }
+      ],
+      [
+        {
+          "_coord": {
+            "x": 9,
+            "y": 0
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 9,
+            "y": 1
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 9,
+            "y": 2
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 9,
+            "y": 3
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 9,
+            "y": 4
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 9,
+            "y": 5
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 9,
+            "y": 6
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 9,
+            "y": 7
+          },
+          "_terrain": "Forest"
+        },
+        {
+          "_coord": {
+            "x": 9,
+            "y": 8
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 9,
+            "y": 9
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 9,
+            "y": 10
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 9,
+            "y": 11
+          },
+          "_terrain": "Mountain"
+        }
+      ],
+      [
+        {
+          "_coord": {
+            "x": 10,
+            "y": 0
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 10,
+            "y": 1
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 10,
+            "y": 2
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 10,
+            "y": 3
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 10,
+            "y": 4
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 10,
+            "y": 5
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 10,
+            "y": 6
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 10,
+            "y": 7
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 10,
+            "y": 8
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 10,
+            "y": 9
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 10,
+            "y": 10
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 10,
+            "y": 11
+          },
+          "_terrain": "Mountain"
+        }
+      ],
+      [
+        {
+          "_coord": {
+            "x": 11,
+            "y": 0
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 11,
+            "y": 1
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 11,
+            "y": 2
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 11,
+            "y": 3
+          },
+          "_terrain": "Desert"
+        },
+        {
+          "_coord": {
+            "x": 11,
+            "y": 4
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 11,
+            "y": 5
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 11,
+            "y": 6
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 11,
+            "y": 7
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 11,
+            "y": 8
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 11,
+            "y": 9
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 11,
+            "y": 10
+          },
+          "_terrain": "Mountain"
+        },
+        {
+          "_coord": {
+            "x": 11,
+            "y": 11
+          },
+          "_terrain": "Mountain"
+        }
+      ]
+    ],
+    "regions": [
+      {
+        "name": "Faerie Woods",
+        "locationReferences": [
+          {
+            "x": 6,
+            "y": 7
+          },
+          {
+            "x": 9,
+            "y": 8
+          },
+          {
+            "x": 6,
+            "y": 8
+          },
+          {
+            "x": 9,
+            "y": 9
+          },
+          {
+            "x": 6,
+            "y": 5
+          },
+          {
+            "x": 9,
+            "y": 6
+          },
+          {
+            "x": 6,
+            "y": 6
+          },
+          {
+            "x": 9,
+            "y": 7
+          },
+          {
+            "x": 9,
+            "y": 4
+          },
+          {
+            "x": 9,
+            "y": 5
+          },
+          {
+            "x": 10,
+            "y": 8
+          },
+          {
+            "x": 10,
+            "y": 7
+          },
+          {
+            "x": 10,
+            "y": 6
+          },
+          {
+            "x": 10,
+            "y": 5
+          },
+          {
+            "x": 10,
+            "y": 9
+          },
+          {
+            "x": 6,
+            "y": 9
+          },
+          {
+            "x": 5,
+            "y": 6
+          },
+          {
+            "x": 5,
+            "y": 7
+          },
+          {
+            "x": 5,
+            "y": 8
+          },
+          {
+            "x": 8,
+            "y": 8
+          },
+          {
+            "x": 8,
+            "y": 9
+          },
+          {
+            "x": 8,
+            "y": 10
+          },
+          {
+            "x": 8,
+            "y": 4
+          },
+          {
+            "x": 8,
+            "y": 5
+          },
+          {
+            "x": 8,
+            "y": 6
+          },
+          {
+            "x": 5,
+            "y": 5
+          },
+          {
+            "x": 11,
+            "y": 5
+          },
+          {
+            "x": 11,
+            "y": 6
+          },
+          {
+            "x": 11,
+            "y": 7
+          },
+          {
+            "x": 7,
+            "y": 9
+          },
+          {
+            "x": 7,
+            "y": 8
+          },
+          {
+            "x": 7,
+            "y": 5
+          },
+          {
+            "x": 11,
+            "y": 8
+          },
+          {
+            "x": 7,
+            "y": 4
+          },
+          {
+            "x": 7,
+            "y": 7
+          },
+          {
+            "x": 7,
+            "y": 6
+          },
+          {
+            "x": 11,
+            "y": 9
+          },
+          {
+            "x": 7,
+            "y": 3
+          },
+          {
+            "x": 7,
+            "y": 10
+          },
+          {
+            "x": 10,
+            "y": 10
+          },
+          {
+            "x": 9,
+            "y": 3
+          },
+          {
+            "x": 5,
+            "y": 9
+          },
+          {
+            "x": 9,
+            "y": 10
+          },
+          {
+            "x": 8,
+            "y": 11
+          },
+          {
+            "x": 9,
+            "y": 11
+          },
+          {
+            "x": 8,
+            "y": 3
+          },
+          {
+            "x": 6,
+            "y": 10
+          },
+          {
+            "x": 5,
+            "y": 10
+          },
+          {
+            "x": 9,
+            "y": 2
+          },
+          {
+            "x": 10,
+            "y": 11
+          },
+          {
+            "x": 11,
+            "y": 10
+          },
+          {
+            "x": 7,
+            "y": 11
+          },
+          {
+            "x": 4,
+            "y": 9
+          },
+          {
+            "x": 11,
+            "y": 4
+          },
+          {
+            "x": 4,
+            "y": 10
+          },
+          {
+            "x": 6,
+            "y": 11
+          },
+          {
+            "x": 11,
+            "y": 11
+          },
+          {
+            "x": 10,
+            "y": 4
+          },
+          {
+            "x": 4,
+            "y": 11
+          },
+          {
+            "x": 10,
+            "y": 3
+          },
+          {
+            "x": 3,
+            "y": 9
+          },
+          {
+            "x": 5,
+            "y": 11
+          },
+          {
+            "x": 3,
+            "y": 10
+          },
+          {
+            "x": 10,
+            "y": 2
+          },
+          {
+            "x": 11,
+            "y": 2
+          },
+          {
+            "x": 11,
+            "y": 3
+          },
+          {
+            "x": 3,
+            "y": 11
+          },
+          {
+            "x": 11,
+            "y": 1
+          },
+          {
+            "x": 10,
+            "y": 1
+          },
+          {
+            "x": 11,
+            "y": 0
+          },
+          {
+            "x": 10,
+            "y": 0
+          },
+          {
+            "x": 8,
+            "y": 7
+          }
+        ],
+        "popReferences": [
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92
+        ]
+      },
+      {
+        "name": "Clouded Ridge",
+        "locationReferences": [
+          {
+            "x": 6,
+            "y": 3
+          },
+          {
+            "x": 6,
+            "y": 4
+          },
+          {
+            "x": 6,
+            "y": 2
+          },
+          {
+            "x": 4,
+            "y": 5
+          },
+          {
+            "x": 4,
+            "y": 6
+          },
+          {
+            "x": 4,
+            "y": 3
+          },
+          {
+            "x": 4,
+            "y": 4
+          },
+          {
+            "x": 1,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 4
+          },
+          {
+            "x": 1,
+            "y": 5
+          },
+          {
+            "x": 1,
+            "y": 2
+          },
+          {
+            "x": 1,
+            "y": 3
+          },
+          {
+            "x": 3,
+            "y": 6
+          },
+          {
+            "x": 3,
+            "y": 4
+          },
+          {
+            "x": 3,
+            "y": 5
+          },
+          {
+            "x": 3,
+            "y": 2
+          },
+          {
+            "x": 3,
+            "y": 0
+          },
+          {
+            "x": 3,
+            "y": 1
+          },
+          {
+            "x": 5,
+            "y": 1
+          },
+          {
+            "x": 5,
+            "y": 2
+          },
+          {
+            "x": 5,
+            "y": 3
+          },
+          {
+            "x": 5,
+            "y": 4
+          },
+          {
+            "x": 0,
+            "y": 5
+          },
+          {
+            "x": 0,
+            "y": 3
+          },
+          {
+            "x": 0,
+            "y": 4
+          },
+          {
+            "x": 2,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 2
+          },
+          {
+            "x": 2,
+            "y": 2
+          },
+          {
+            "x": 2,
+            "y": 3
+          },
+          {
+            "x": 2,
+            "y": 4
+          },
+          {
+            "x": 2,
+            "y": 5
+          },
+          {
+            "x": 2,
+            "y": 6
+          },
+          {
+            "x": 4,
+            "y": 1
+          },
+          {
+            "x": 4,
+            "y": 2
+          },
+          {
+            "x": 4,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 6
+          },
+          {
+            "x": 6,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 6
+          },
+          {
+            "x": 7,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 2,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 7
+          },
+          {
+            "x": 7,
+            "y": 2
+          },
+          {
+            "x": 2,
+            "y": 7
+          },
+          {
+            "x": 1,
+            "y": 7
+          },
+          {
+            "x": 3,
+            "y": 7
+          },
+          {
+            "x": 8,
+            "y": 2
+          },
+          {
+            "x": 4,
+            "y": 7
+          },
+          {
+            "x": 4,
+            "y": 8
+          },
+          {
+            "x": 5,
+            "y": 0
+          },
+          {
+            "x": 6,
+            "y": 0
+          },
+          {
+            "x": 3,
+            "y": 8
+          },
+          {
+            "x": 7,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 2,
+            "y": 8
+          },
+          {
+            "x": 0,
+            "y": 8
+          },
+          {
+            "x": 1,
+            "y": 8
+          },
+          {
+            "x": 2,
+            "y": 9
+          },
+          {
+            "x": 8,
+            "y": 1
+          },
+          {
+            "x": 9,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 9
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 9
+          },
+          {
+            "x": 0,
+            "y": 10
+          },
+          {
+            "x": 1,
+            "y": 10
+          },
+          {
+            "x": 2,
+            "y": 10
+          },
+          {
+            "x": 8,
+            "y": 0
+          },
+          {
+            "x": 2,
+            "y": 11
+          },
+          {
+            "x": 9,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 11
+          },
+          {
+            "x": 1,
+            "y": 11
+          },
+          {
+            "x": 3,
+            "y": 3
+          }
+        ],
+        "popReferences": [
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104
+        ]
+      }
+    ]
+  },
+  "_turn": 13,
+  "_idGenerator": 105,
+  "_created": true
+}

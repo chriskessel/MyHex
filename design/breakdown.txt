@@ -1,0 +1,124 @@
+Near term
+ - GUI
+   - give orders
+     - diplomat/agents
+       - select order
+       - select target
+     - army
+       - select order
+       - moving
+       - select target
+   - cancel active order mode
+   - orders review
+     - show orders
+     - validate orders
+     - cancel order
+   - show kingdom screen
+    - notes
+    - figures
+    - armies
+    - other
+
+Later stuff
+ - spells
+
+Domain Objects
+ - Kingdom
+   - name
+   - kingdom troops
+     - the type
+     - troop growth rate
+     - movement rate
+     - terrain bonuses (primary, secondary terrains)
+   - victory/advancement conditions
+   - wizards
+     - spell lists
+     - wizard costs
+     - level limits
+   - agents
+     - training costs
+     - level limits
+ - Army
+   - troops
+   - morale
+   - leaders
+   - wizards
+   - agents
+   - knows Player
+ - Troop
+   - type
+   - composition
+   - strength (derived from composition?)
+   - maintenance cost
+ - Leader
+   - name
+   - level
+   - specialities
+   - kingdom
+ - Agent
+   - name
+   - level
+   - location
+   - kingdom
+ - Wizard
+   - name
+   - level
+   - location
+   - kingdom
+ - Region
+   - troop type
+   - name
+   - pops
+   - hex
+     - terrain
+ - Pop Center
+   - name
+   - production
+   - defense
+   - knows owning Kingdom
+ - Game
+   - knows Map
+     - knows Regions
+       - knows Pops
+         - knows diplomats
+         - knows agents
+       - knows Player domination levels
+   - knows Players, each has
+     - knows kingdom
+     - knows capitol
+     - has armies
+     - has diplomats
+     - has agents
+     - has wizards
+     - order capacity
+     - treasury
+     - knows owned pops
+     - derived production
+     - has rumors of other figure/army locations
+
+Map Creation (done)
+ - Create basic square N*N hex map that can wrap around
+ - regions
+   - region spread algorithm
+   - create N regions
+   - handle unallocated spots
+ - pops
+   - allocate all pops
+   - create cities
+   - create towns/hamlets
+ - terrain spread
+ - player allocation
+   - find capitol
+   - spread primary terrain
+   - spread secondary terrain
+   - spread neutral terrain
+   - find 2nd town
+   - find 3rd hamlet
+
+Order Processing
+ - Order object
+   - who, what, where, etc
+ - load game
+ - Execute order(s) against the game
+ - Generate player views
+ - persist game

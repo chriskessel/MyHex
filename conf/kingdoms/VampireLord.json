@@ -1,0 +1,44 @@
+{
+    "_description" : "The Vampire Lord's magical powers are unmatched, but leads an otherwise unremarkable kingdom.",
+    "_namesFile":"VampireNames.txt",
+    "_name": "Vampire Lord",
+    "_startingEmbassies": 1,
+
+    "_diplomatCostModifier": 1.1,
+    "_startingDiplomats": [ 14,10,7,5,3,1 ],
+
+    "_wizardLevelCap": 10,
+    "_wizardCostModifier": 1.2,
+    "_startingWizards": [ 4,2,1,1,0,0 ],
+
+    "_agentLevelCap": 13,
+    "_agentCostModifier": 0.9,
+    "_startingAgents": [ 6,3,1,1 ],
+
+    "_armyName": "Vampires",
+    "_startingArmies": [ 4,2,0 ],
+    "_movementCosts": {
+        "Plain": 12,
+        "Forest": 20,
+        "Desert": 12,
+        "Mountain": 16,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": 1.0,
+        "Forest": 0.85,
+        "Desert": 1.2,
+        "Mountain": 1.05,
+        "Undefined": .01
+    },
+    "_unitCost": 1.0,
+    "_reinforcementRate": 3.34,
+    "_startingGold": 36,
+    "_startingPower": 11,
+    "_troopType": {
+        "_size": 1000,
+        "_strength": 1.08,
+        "_armor": 0.46,
+        "_name": "Undead"
+    }
+}

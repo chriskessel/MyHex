@@ -1,0 +1,44 @@
+{
+    "_description" : "Though not known as masters of magic, the Stone Wizards are led by a council of many lesser wizards who control an army of soldiers rumored to be infused with stone.",
+    "_namesFile":"EvilNames.txt",
+    "_name": "Stone Wizards",
+    "_startingGold": 26,
+    "_startingPower": 10,
+    "_startingEmbassies": 1,
+
+    "_wizardLevelCap": 4,
+    "_wizardCostModifier": 0.9,
+    "_startingWizards": [ 2,2,1,1,0,0,0 ],
+
+    "_diplomatCostModifier": 1.0,
+    "_startingDiplomats": [ 11,9,7,5,4,3,1 ],
+
+    "_agentLevelCap": 11,
+    "_agentCostModifier": 1.0,
+    "_startingAgents": [ 4,2,1 ],
+
+    "_startingArmies": [ 3,3,0 ],
+    "_unitCost": 0.6,
+    "_reinforcementRate": 3.34,
+    "_armyName": "Stonemen",
+    "_movementCosts": {
+        "Plain": 12,
+        "Forest": 19,
+        "Desert": 12,
+        "Mountain": 13,
+        "Undefined": 100
+    },
+    "_combatMultipliers": {
+        "Plain": 1.0,
+        "Forest": 0.95,
+        "Desert": 1.05,
+        "Mountain": 1.1,
+        "Undefined": .01
+    },
+    "_troopType": {
+        "_size": 1000,
+        "_strength": 1.37,
+        "_armor": 0.36,
+        "_name": "Stone Men"
+    }
+}

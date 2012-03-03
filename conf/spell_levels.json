@@ -1,0 +1,50 @@
+{
+  "TeleportSelf" : 1,
+  "Alchemy" : 1,
+  "Scry" : 1,
+  "Fireball" : 1,
+  "PhantomTroops" : 1,
+  "DiplomaticAura" : 1,
+
+  "TeleportFigure" : 2,
+  "CharmFigure" : 2,
+  "ShieldFigure" : 2,
+  "DispelCombatMagic" : 2,
+
+  "ShieldRegion" : 3,
+  "ImbuePopCenter" : 3,
+  "TeleportArmy" : 3,
+  "DeepFog" : 3,
+  "CharmRegion" : 3,
+
+  "CurseRegion" : 4,
+  "InvisibleArmy" : 4,
+  "RaiseDead" : 4,
+  "DamagePopCenter" : 4,
+
+  "BadOmen" : 5,
+  "SummonWerebeasts" : 5,
+  "EnhancePower" : 5,
+  "EnhanceEmbassy" : 5,
+  "CorruptEmbassy" : 5,
+
+  "EnhancedTeleportArmy" : 6,
+  "EnhancedInvisibleArmy" : 6,
+  "SubvertHamlet" : 6,
+  "MagicDome" : 6,
+  "SummonOgres" : 6,
+
+  "PlagueArmy" : 7,
+  "SummonDragons" : 7,
+  "ShadowAssassin" : 7,
+  "ImbueRegion" : 7,
+  "DamageRegion" : 7,
+  "SubvertTown" : 7,
+  "UnlimitedTeleportArmy" : 7,
+  "UnlimitedInvisibleArmy" : 7,
+
+  "SubvertCity" : 8,
+  "FireStorm" : 8,
+
+  "DarkRitual" : 9
+}
