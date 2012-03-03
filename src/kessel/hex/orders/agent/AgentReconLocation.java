@@ -39,7 +39,7 @@ public class AgentReconLocation extends AbstractAgentMission
     if ( handleTargetIsOffMap( game ) ) return false;
     if ( handleTargetOutOfRange( game ) ) return false;
     return true;
-    // asdf
+    // asdfasdf
   }
 
   protected String getMissionDescription()
