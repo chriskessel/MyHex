@@ -32,12 +32,14 @@ public class AgentReconLocation extends AbstractAgentMission
   }
 
   @SuppressWarnings({ "RedundantIfStatement" })
+  // asdf
   protected boolean canExecute( Game game )
   {
     if ( !super.canExecute( game ) ) return false;
     if ( handleTargetIsOffMap( game ) ) return false;
     if ( handleTargetOutOfRange( game ) ) return false;
     return true;
+    // asdf
   }
 
   protected String getMissionDescription()
