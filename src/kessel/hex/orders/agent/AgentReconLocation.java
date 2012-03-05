@@ -45,7 +45,6 @@ public class AgentReconLocation extends AbstractAgentMission
     return "the reconnaissance of " + _target;
   }
 
-  // git test
   private boolean handleTargetIsOffMap( Game game )
   {
     boolean isTargetOnMap = (_target.x < game.getMap().getWidth()) && (_target.x >= 0) &&
