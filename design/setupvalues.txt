@@ -1,3 +1,5 @@
+H = Hamlet's worth of production. Everything is geared around the question of "How many hamlet's worth of production is this worth?".
+
 (D)iplomat: 1H per level, max level depends on power
 (A)gent: 1H + 1H per level
 (W)izard: 6H per wizard, 3H per level. Max level #wizards. +/-3HP for +1 level
